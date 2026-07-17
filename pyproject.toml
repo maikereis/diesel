@@ -23,6 +23,6 @@ dependencies = [
     "seaborn>=0.13.2",
     "statsmodels>=0.14.6",
     "tensorflow>=2.21.0",
-    "torch>=2.10.0",
+    "torch>=2.13.0",
     "tqdm>=4.67.3",
 ]
